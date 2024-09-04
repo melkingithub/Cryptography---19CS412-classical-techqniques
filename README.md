@@ -97,8 +97,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/dcd09102-11d6-40b4-8e0b-9d30f334b989)
 
-![Screenshot 2024-09-02 181906](https://github.com/user-attachments/assets/03514400-89c7-4bed-bca4-9e192d13b494)
 
 ## RESULT:
 The program for Caeser Cipher is executed successfully
