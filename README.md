@@ -97,7 +97,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/1fbf11b7-4b96-4b0b-877a-e1217115dd7f)
+![image](https://github.com/user-attachments/assets/63aa1a0c-2baa-4c54-abda-43bc1c59a7fc)
 
 
 ## RESULT:
@@ -291,7 +291,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/7931108e-e151-4a41-982d-257879988183)
+![image](https://github.com/user-attachments/assets/6ca0355a-d14b-4e3f-b749-0fe1d9dae1f7)
 
 
 
@@ -424,8 +424,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/ee8989d2-326f-4a7e-a6ca-bee5b958abda)
 
-![image](https://github.com/user-attachments/assets/b52db09d-25cd-4529-886b-2ab0d63886b4)
 
 
 
@@ -538,7 +538,7 @@ void decipher() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/eae58be6-eae6-429f-abe4-b0defabe1f53)
+![image](https://github.com/user-attachments/assets/fcac80e4-01a5-44c5-9079-967a05fd1e28)
 
 
 
@@ -682,8 +682,7 @@ int main() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/a9c5f9cb-d346-4f7b-9a66-477e9ce542fe)
-
+![image](https://github.com/user-attachments/assets/b964a574-fde6-4082-84fd-e1a20799892e)
 
 
 ## RESULT:
