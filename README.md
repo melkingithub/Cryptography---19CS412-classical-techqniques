@@ -97,7 +97,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/0cb6a408-4b3f-492b-965b-d000c2183a2c)
+![image](https://github.com/user-attachments/assets/528a766a-7c68-457e-8423-fcdf6910f489)
+
  :
 
 
@@ -292,7 +293,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/cb15895e-6c59-401e-98ce-87577256f34e)
+![image](https://github.com/user-attachments/assets/2f004ddf-5333-426f-95a8-e1409c6237bc)
 
 
 
@@ -425,7 +426,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/b65b8d48-e701-4492-9fa4-fc0a03c5d9ec)
+![image](https://github.com/user-attachments/assets/c6f4c29d-c3db-4220-b418-ddf319fd0ca9)
+
 
 ## RESULT:
 The program Hill Cipher is executed successfully
@@ -536,7 +538,8 @@ void decipher() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/419995b0-1c9b-462b-a2de-00473eac60a7)
+![image](https://github.com/user-attachments/assets/d0170e54-f4ce-4b6a-9d3e-faf8faa9cb2e)
+
 
 
 
@@ -680,7 +683,7 @@ int main() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/805f851f-7f50-4ca1-b241-9a856f414329)
+![image](https://github.com/user-attachments/assets/fde8d8a3-1b58-423d-ab69-70221072e160)
 
 
 
