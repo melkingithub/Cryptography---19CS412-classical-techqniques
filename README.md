@@ -97,7 +97,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/dcd09102-11d6-40b4-8e0b-9d30f334b989)
+![image](https://github.com/user-attachments/assets/1fbf11b7-4b96-4b0b-877a-e1217115dd7f)
 
 
 ## RESULT:
@@ -291,7 +291,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/aa3efb89-541c-4fb7-9e6a-bc1a4be28805)
+![image](https://github.com/user-attachments/assets/7931108e-e151-4a41-982d-257879988183)
 
 
 
@@ -377,7 +377,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "AAKASHRAJ");
+    strcpy(msg, "MELKIN SAM");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -425,7 +425,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/0a5fa04f-c9d3-4c12-84fa-17f7d598674e)
+![image](https://github.com/user-attachments/assets/b52db09d-25cd-4529-886b-2ab0d63886b4)
+
 
 
 ## RESULT:
@@ -537,8 +538,8 @@ void decipher() {
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/eae58be6-eae6-429f-abe4-b0defabe1f53)
 
-![image](https://github.com/user-attachments/assets/9cfa0686-d231-4e01-b992-444e1485c9b0)
 
 
 ## RESULT:
@@ -681,8 +682,8 @@ int main() {
 
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/a9c5f9cb-d346-4f7b-9a66-477e9ce542fe)
 
-![image](https://github.com/user-attachments/assets/576688f1-306e-4522-84d8-b8a06fd8d307)
 
 
 ## RESULT:
