@@ -291,8 +291,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/aa3efb89-541c-4fb7-9e6a-bc1a4be28805)
 
-![Screenshot 2024-09-02 182531](https://github.com/user-attachments/assets/045aa4e2-17b1-4298-93ff-19b562749a44)
 
 
 ## RESULT:
@@ -425,7 +425,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 182843](https://github.com/user-attachments/assets/c3c489aa-71e7-4325-805b-187d7105aea2)
+![image](https://github.com/user-attachments/assets/0a5fa04f-c9d3-4c12-84fa-17f7d598674e)
+
 
 ## RESULT:
 The program Hill Cipher is executed successfully
@@ -537,7 +538,8 @@ void decipher() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 183310](https://github.com/user-attachments/assets/1f5db753-5631-43d7-b32e-e6aff736843d)
+![image](https://github.com/user-attachments/assets/9cfa0686-d231-4e01-b992-444e1485c9b0)
+
 
 ## RESULT:
 The program Vigenere Cipher is executed successfully
@@ -680,7 +682,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 183514](https://github.com/user-attachments/assets/4f1a8c70-cd66-4b66-8cb6-a2eeb5de1b0d)
+![image](https://github.com/user-attachments/assets/576688f1-306e-4522-84d8-b8a06fd8d307)
+
 
 ## RESULT:
 The program Rail Fence Cipher is executed successfully
