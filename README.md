@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a257c9b3-ba6e-41c0-99cd-46da9f9c8907)## AIM :
+## AIM :
 To implement the Vigenere Cipher substitution technique using C program
 
 ## ALGORITHM :
