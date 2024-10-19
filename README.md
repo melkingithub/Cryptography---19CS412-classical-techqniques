@@ -174,7 +174,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/512d4b8b-2d86-4bb4-93c6-68051f6a142f)
+![image](https://github.com/user-attachments/assets/bdb627cd-daef-4aa4-8507-3f4a685e1030)
 
 ## RESULT:
 The program PlayFair Cipher is executed successfully
